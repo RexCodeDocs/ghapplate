@@ -10,13 +10,13 @@ current version: v2.2.0
 
 ## How it looks
 
-Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
+Open http://RexCodeDocs.github.io/ghapplate to see the basic looks and feel.
 
 ![Real welcome page](http://i.imgur.com/8AGwXCG.png)
 
 ## How to use ghapplate
 
-Go to https://github.com/RexCodeDocs/ghapplate, click 'fork' button to fork the template to your repository.
+Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the template to your repository.
 
 ## How to create multiple forks of a GitHub repo?
 
